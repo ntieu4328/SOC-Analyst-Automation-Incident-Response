@@ -18,7 +18,7 @@ After completing the [SOC Analyst Automation setup](https://github.com/ntieu4328
 
 ![windows 10 login](https://github.com/ntieu4328/SOC-Analyst-Automation-Incident-Response/assets/156137990/fac132d8-dcb3-44fa-83e5-38cb336ddb9e)
 
-2. Continuously log in with correct information.
+2. Continuously log in with incorrect information.
 
 3. The failed login information should show in both Wazuh and TheHive:
 
